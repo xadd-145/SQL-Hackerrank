@@ -1,0 +1,5 @@
+/*Revising the Select Query 2*/
+
+SELECT NAME 
+From CITY 
+WHERE POPULATION >120000 AND COUNTRYCODE="USA";
